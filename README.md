@@ -15,5 +15,5 @@ Wikidot: [HelloOSMe](http://www.wikidot.com/user:info/helloosme)
 ![](https://idage.rickyxrc.top/github/user?username=HelloOSMe)
 
 友链: 
-[![](https://avatars.githubusercontent.com/u/116557254?s=64&v=4)](/yu22c0w0)
-[![](https://avatars.githubusercontent.com/u/119715919?s=64&v=4)](/MinecraftWindows11)
+[![](https://avatars.githubusercontent.com/u/116557254?s=64&v=4)](https://github.com/yu22c0w0)
+[![](https://avatars.githubusercontent.com/u/119715919?s=64&v=4)](https://github.com/MinecraftWindows11)
