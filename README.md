@@ -12,6 +12,8 @@ OIer Space: [helloos.oier.space](https://helloos.oier.space/)
 Wikidot: [HelloOSMe](http://www.wikidot.com/user:info/helloosme)  
 个人主页: [helloos.eu.org](https://helloos.eu.org)
 
+最常用的语言: C++
+
 ![](https://idage.rickyxrc.top/github/user?username=HelloOSMe)
 
 友链: 
