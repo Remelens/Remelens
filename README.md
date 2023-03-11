@@ -19,4 +19,6 @@ Wikidot: [HelloOSMe](http://www.wikidot.com/user:info/helloosme)
 友链: 
 [![](https://avatars.githubusercontent.com/u/116557254?s=64&v=4)](https://github.com/yu22c0w0)
 [![](https://avatars.githubusercontent.com/u/119715919?s=64&v=4)](https://github.com/MinecraftWindows11)
-[![](https://truthboard.wikidot.com/local--favicon/favicon.gif?83852)](https://truthboard.wikidot.com)
+
+websites:  
+[![](https://truthboard.wikidot.com/local--iosicon/iosicon.png?97600)](https://truthboard.wikidot.com)
