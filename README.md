@@ -18,8 +18,6 @@ Wikidot: [HelloOSMe](http://www.wikidot.com/user:info/helloosme)
 
 ![image](http://idage.rickyxrc.top/github/repo?username=HelloOSMe&repo=Py-Crawler)
 
-![image](http://idage.rickyxrc.top/github/repo?username=HelloOSMe&repo=OI-Tool)
-
 友链: 
 [![](https://avatars.githubusercontent.com/u/116557254?s=64&v=4)](https://github.com/yu22c0w0)
 [![](https://avatars.githubusercontent.com/u/119715919?s=64&v=4)](https://github.com/MinecraftWindows11)
