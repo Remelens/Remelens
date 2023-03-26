@@ -16,7 +16,7 @@ Wikidot: [HelloOSMe](http://www.wikidot.com/user:info/helloosme)
 
 ![](https://idage.rickyxrc.top/github/user?username=HelloOSMe)
 
-![image](http://idage.rickyxrc.top/github/repo?username=HelloOSMe&repo=Py-Crawler)
+![image](http://idage.rickyxrc.top/github/repo?username=HelloOSMe&repo=HelloOSMe-s-Typecho-Theme)
 
 友链: 
 [![](https://avatars.githubusercontent.com/u/116557254?s=64&v=4)](https://github.com/yu22c0w0)
