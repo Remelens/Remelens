@@ -12,8 +12,6 @@ OIer Space: [helloos.oier.space](https://helloos.oier.space/)
 Wikidot: [HelloOSMe](http://www.wikidot.com/user:info/helloosme)  
 个人主页: [helloos.eu.org](https://helloos.eu.org)
 
-最常用的语言: C++
-
 ![](https://idage.rickyxrc.top/github/user?username=HelloOSMe)
 
 ![image](http://idage.rickyxrc.top/github/repo?username=HelloOSMe&repo=HelloOSMe-s-Typecho-Theme)
@@ -24,3 +22,12 @@ Wikidot: [HelloOSMe](http://www.wikidot.com/user:info/helloosme)
 
 websites:  
 [![](https://truthboard.wikidot.com/local--iosicon/iosicon.png?97600)](https://truthboard.wikidot.com)
+
+---------
+
+这里是HelloOSMe，蒟蒻一枚～
+
+OIer，渴望AKIOI（？），但是连CSP入门组都没过的屑（  
+刚接触OI没2年，编程萌新，最熟练C/C++。
+
+刚入门前后端半年qwq
