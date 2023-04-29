@@ -14,7 +14,8 @@ Wikidot: [HelloOSMe](http://www.wikidot.com/user:info/helloosme)
 
 ![](https://idage.rickyxrc.top/github/user?username=HelloOSMe)
 
-![image](http://idage.rickyxrc.top/github/repo?username=HelloOSMe&repo=HelloOSMe-s-Typecho-Theme)
+![image](http://idage.rickyxrc.top/github/repo?username=TruthboardWiki&repo=truthboard-searcher)
+给[这个项目](https://github.com/TruthboardWiki/truthboard-searcher)一个星标吧qwq
 
 友链: 
 [![](https://avatars.githubusercontent.com/u/116557254?s=64&v=4)](https://github.com/yu22c0w0)
