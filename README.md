@@ -1,15 +1,13 @@
-<p align="center">
-你好，欢迎来到<br>
-<span style="font-size:200%;">OS的GitHub</span><br>
-这里是某位OIer的仓库<br>
-<span style="font-size:120%;">请踩爆这名<span style="font-size:111%;">蒟蒻</span></span><br>
-</p>
+这里是HelloOSMe，蒟蒻一枚～
+
+渴望AKIOI的OIer（？），但是连CSP入门组都没过的屑（  
+刚接触OI没2年，编程萌新，最熟练C/C++。
+
+刚入门前后端半年qwq
 
 洛谷: [HelloOS](https://luogu.com.cn/user/755022)  
 Codeforces: [HelloOS](https://codeforces.com/profile/HelloOS)  
 SPOJ: HelloOS  
-OIer Space: [helloos.oier.space](https://helloos.oier.space/)  
-Wikidot: [HelloOSMe](http://www.wikidot.com/user:info/helloosme)  
 个人主页: [helloos.eu.org](https://helloos.eu.org)
 
 ![](https://idage.rickyxrc.top/github/user?username=HelloOSMe)
@@ -23,12 +21,3 @@ Wikidot: [HelloOSMe](http://www.wikidot.com/user:info/helloosme)
 
 websites:  
 [![](https://truthboard.wikidot.com/local--iosicon/iosicon.png?97600)](https://truthboard.wikidot.com)
-
----------
-
-这里是HelloOSMe，蒟蒻一枚～
-
-OIer，渴望AKIOI（？），但是连CSP入门组都没过的屑（  
-刚接触OI没2年，编程萌新，最熟练C/C++。
-
-刚入门前后端半年qwq
