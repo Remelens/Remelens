@@ -7,6 +7,17 @@ The administrator of [Truthboard](https://truthboard.wikidot.com) ([GitHub Organ
 Code with: `C/C++`， `PHP`， `HTML`， `CSS`， `JavaScript`， `Python`， `Visual Basic`， `Java(a little)`， `C#(a little)`  
 Learning: `Go`， `Perl`， `Rust`， `Nim`  
 
+```bash
+helloosme@HELLOOS-ME:~$ ./whoami
+helloosme
+helloosme@HELLOOS-ME:~$ ./from
+the PRC
+helloosme@HELLOOS-ME:~$ ./admin
+https://truthboard.wikidot.com
+helloosme@HELLOOS-ME:~$ ./languages
+C/C++， PHP， HTML， CSS， JavaScript， Python， Visual Basic， Java(a little)， C#(a little)
+```
+
 # My accounts:
 
 [Luogu Online Judge](https://luogu.com.cn/user/755022)  
