@@ -13,8 +13,6 @@ Learning: `Go`， `Perl`， `Rust`， `Nim`
 [Codeforces](https://codeforces.com/profile/HelloOS)  
 [My website](https://helloos.eu.org)
 
-# My History
-
 # FriendShip Link
 GitHub:  
 [![](https://avatars.githubusercontent.com/u/116557254?s=64&v=4)](https://github.com/yu22c0w0)
