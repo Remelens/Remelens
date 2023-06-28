@@ -3,6 +3,7 @@ Hi yooooooo! I'm HelloOSMe! An OIer / A full-stack developer from the Prople's R
 
 The administrator of [Truthboard](https://truthboard.wikidot.com) ([GitHub Organization](https://github.com/TruthboardWiki)).
 
+Discord: helloosme
 
 Code with: `C/C++`， `PHP`， `HTML`， `CSS`， `JavaScript`， `Python`， `Visual Basic`， `Java(a little)`， `C#(a little)`  
 Learning: `Go`， `Perl`， `Rust`， `Nim`  
