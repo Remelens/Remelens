@@ -1,5 +1,5 @@
 # Who am I?
-Hi yooooooo! I'm HelloOSMe! An OIer / A full-stack developer from the Prople's Republic of China!
+Hi yooooooo! I'm HelloOSMe! An OIer / A full-stack developer from the People's Republic of China!
 
 The administrator of [Truthboard](https://truthboard.wikidot.com) ([GitHub Organization](https://github.com/TruthboardWiki)).
 
