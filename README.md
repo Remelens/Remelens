@@ -17,7 +17,7 @@ the PRC
 helloosme@HELLOOS-ME:~$ ./admin
 https://truthboard.wikidot.com
 helloosme@HELLOOS-ME:~$ ./languages
-C/C++， PHP， HTML， CSS， JavaScript， Python， Visual Basic， Java(a little)， C#(a little)
+C/C++， PHP， HTML， CSS， JavaScript， Python， Visual Basic， Java(a little)， C#(a little)， Sh， Powershell， Nginx， Markdown， SQL
 ```
 
 # My accounts:
