@@ -7,8 +7,7 @@ The administrator of [Truthboard](https://truthboard.wikidot.com) ([GitHub Organ
 
 Discord: helloosme
 
-Know: `C/C++`， `PHP`， `HTML`， `CSS`， `JavaScript`， `Python`， `Visual Basic`， `Java(a little)`， `C#(a little)`， `Sh`， `Powershell`， `Nginx`， `Markdown`  
-Learning: `SQL`  
+Know: `C/C++`， `PHP`， `HTML`， `CSS`， `JavaScript`， `Python`， `Visual Basic`， `Java(a little)`， `C#(a little)`， `Sh`， `Powershell`， `Nginx`， `Markdown`， `SQL`  
 Need to learn: `Go`， `Perl`， `Rust`， `Nim`  
 
 ```bash
