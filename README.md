@@ -29,7 +29,7 @@ C/C++， PHP， HTML， CSS， JavaScript， Python， Visual Basic， Java(a li
 
 # FriendShip Link
 GitHub:  
-[![](https://usercontent.githubfast.com/avatars/u/116557254?s=64&v=4)](https://githubfast.com/yu22c0w0)
+[![](https://avatars.githubusercontent.com/u/116557254?v=4)](https://githubfast.com/yu22c0w0)
 [![](https://usercontent.githubfast.com/avatars/u/97789520?s=64&v=4)](https://githubfast.com/paperee)
 [![](https://usercontent.githubfast.com/avatars/u/96947247?s=64&v=4)](https://githubfast.com/MaggieLOL)
 [![](https://usercontent.githubfast.com/avatars/u/119715919?s=64&v=4)](https://githubfast.com/MinecraftWindows11)
