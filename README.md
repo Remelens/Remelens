@@ -25,8 +25,8 @@ C/C++， PHP， HTML， CSS， JavaScript， Python， Visual Basic， Java(a li
 
 [Luogu Online Judge](https://luogu.com.cn/user/755022)  
 [Codeforces](https://codeforces.com/profile/HelloOS)  
-[My website](https://remelens.link)
-
+[My website](https://remelens.link)  
+Discord: remelens
 
 # Banners ( •̀ ω •́ )✧
 
