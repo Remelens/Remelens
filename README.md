@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/Remelens/Remelens/main/assets/github-contribution-grid-snake.svg)
-
 # Who am I?
 Hi yooooooo! I'm Remelens! An OIer / A full-stack developer from the People's Republic of China!
 
