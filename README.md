@@ -22,8 +22,3 @@ C/C++， PHP， HTML， CSS， JavaScript， Python， Visual Basic， Java(a li
 ```
 
 > I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.
-
-作者：YANG
-链接：https://www.zhihu.com/question/493518464/answer/2196326236
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
