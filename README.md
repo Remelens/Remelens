@@ -1,5 +1,5 @@
 # Who am I?
-Hi yooooooo! I'm Remelens! A full-stack developer from the People's Republic of China!
+Hi yooooooo! I'm Remelens! A full-stack developer & AFOed OIer
 
 Discord: remelens
 
