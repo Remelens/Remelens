@@ -21,16 +21,9 @@ remelens@HELLOOS-ME:~$ ./languages
 C/C++， PHP， HTML， CSS， JavaScript， Python， Visual Basic， Java(a little)， C#(a little)， Sh， Powershell， Nginx， Markdown， SQL
 ```
 
-# My accounts:
+> I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.
 
-[Luogu Online Judge](https://luogu.com.cn/user/755022)  
-[Codeforces](https://codeforces.com/profile/HelloOS)  
-[My website](https://remelens.link)  
-Discord: remelens
-
-# Banners ( •̀ ω •́ )✧
-
-![](https://idage.rickyxrc.top/github/user?username=Remelens)
-
-![image](http://idage.rickyxrc.top/github/repo?username=TruthboardWiki&repo=truthboard-searcher)  
-给[这个项目](https://githubfast.com/TruthboardWiki/truthboard-searcher)一个星标吧qwq
+作者：YANG
+链接：https://www.zhihu.com/question/493518464/answer/2196326236
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
