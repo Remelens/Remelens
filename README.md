@@ -5,6 +5,8 @@ A junior high school student... Preparing for the High School Entrance Examinati
 
 Linux beginner,just be reluctantly supposed to be a full-stack developer XD. 
 
+A foolish boy.
+
 # Hobbies
 Err... Coding?
 
