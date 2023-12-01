@@ -8,7 +8,7 @@ Linux beginner,just be reluctantly supposed to be a full-stack developer XD.
 A foolish boy.
 
 # Hobbies
-Err... Coding?
+Err... Coding and science fictions. Reading _Dune_ now.
 
 # Abilities
 C/C++,VB6,Python,HTML/CSS/Javascript,PHP,SQL,bash,Powershell,nginx,markdown
