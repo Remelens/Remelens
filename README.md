@@ -1,4 +1,4 @@
-> Hold infinity in the palm of your hand
+> Hold infinity in the palm of your hand  
 > And eternity in an hour.
 
 # Whoami
