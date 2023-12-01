@@ -1,4 +1,5 @@
-> 把无限放在你的手掌上，永恒在一刹那里收藏。
+> Hold infinity in the palm of your hand
+> And eternity in an hour.
 
 # Whoami
 A junior high school student... Preparing for the High School Entrance Examination now.
