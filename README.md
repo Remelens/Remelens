@@ -1,21 +1,11 @@
-> Hold infinity in the palm of your hand  
-> And eternity in an hour.
+# 我踏马是谁（
 
-# Whoami
-A junior high school student... Preparing for the High School Entrance Examination now.
+一枚不误正业の蒟蒻OIer，信奥烂成屎却误打误撞入坑网络，正在~~备战中考~~快乐摆烂，因学业原因A\~F\~O\~
 
-Linux beginner,just be reluctantly supposed to be a full-stack developer XD. 
+全栈技术小丑🤡：css借鉴布局，js异步烧脑，php全是漏洞，C语言满屏system。
 
-A foolish boy.
+…可以算是南方人罢，江浙沪皖包邮，快把我寄出去（
 
-# Hobbies
-Err... Coding? A science fictions lover who is reading _Dune_ .
+吾即Remelens，~~生草翻译~~雷梅伦斯，叫我Reme即可）
 
-# Abilities
-C/C++,VB6,Python,HTML/CSS/Javascript,PHP,SQL,bash,Powershell,nginx,markdown
-
-(Just know how to print HelloWorld :D) Java/C#
-
-# Contact
-* Email: <master@remelens.link>
-* Homepage: <https://remelens.link>
+Dude!
