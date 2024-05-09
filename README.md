@@ -1,11 +1,10 @@
-# 我踏马是谁（
+# WhoAmI - Internet Traveler
 
-一枚不误正业の蒟蒻OIer，信奥烂成屎却误打误撞入坑网络，正在~~备战中考~~快乐摆烂，因学业原因A\~F\~O\~
+Yooo dude~ I'm Remelens, AFOed OIer & Full-stack developer, also a junior high school student that is preparing for the High School Entrance Examination.
 
-全栈技术小丑🤡：css借鉴布局，js异步烧脑，php全是漏洞，C语言满屏system。
+Love wondering among several websites, programming, and hacking (although I'm not good at it😊).
 
-…可以算是南方人罢，江浙沪皖包邮，快把我寄出去（
+Programming Language Abilities: [*]Assembly, Bash, Batch, C/C++, [*]C#, CSS, HTML, [*]Java, Javascript, PHP, Python, R, SQL, Visual Basic 6  
+[*]: Beginning...
 
-吾即Remelens，~~生草翻译~~雷梅伦斯，叫我Reme即可）
-
-Dude!
+Reach me through email: master@remelens.link
