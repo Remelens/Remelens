@@ -11,7 +11,7 @@ Reach me through email: master@remelens.link
 
 [![Reme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remelens&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remelens)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remelens&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### awa
 
