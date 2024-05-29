@@ -9,7 +9,7 @@ Programming Language Abilities: [\*]Assembly, Bash, Batch, C/C++, [\*]C#, CSS, H
 
 Reach me through email: master@remelens.link
 
-[![Reme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remelens)](https://github.com/anuraghazra/github-readme-stats)
+[![Reme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remelens&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### awa
 
