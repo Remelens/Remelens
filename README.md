@@ -4,8 +4,8 @@ Yooo dude~ I'm Remelens, AFOed OIer & Full-stack developer, also a junior high s
 
 Love wandering among several websites, programming, and hacking (although I'm not good at it😊).
 
-Programming Language Abilities: [\*]Assembly, Bash, Batch, C/C++, [\*]C#, CSS, HTML, [\*]Java, Javascript, PHP, Python, R, SQL, Visual Basic 6  
-[\*]: Beginning...
+Programming Language Abilities: Bash, Batch, C/C++, CSS, HTML, Javascript, PHP, Python, R, SQL, Visual Basic 6  
+Learning Assembly, C Sharp and Ham radio
 
 Reach me through email: master@remelens.link
 
