@@ -1,6 +1,6 @@
 # Who Am I - Internet Traveler
 
-Yooo dude~ I'm Remelens, AFOed OIer & Full-stack developer, also a junior high school student that is preparing for the High School Entrance Examination.
+Yooo dude~ I'm Remelens, AFOed OIer & Full-stack developer.
 
 Love wandering among several websites, programming, and hacking (although I'm not good at it😊).
 
