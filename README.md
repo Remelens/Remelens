@@ -1,6 +1,6 @@
 # Who Am I uwu
 
-Yooo dude~ I'm Remelens, AFOed OIer & Full-stack developer.
+Yooo dude~ I'm Remelens, AFOed OIer & newbie Full-stack developer.
 
 Love wandering among several websites, programming, and hacking (although I'm not good at it😊).
 
