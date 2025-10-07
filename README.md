@@ -1,4 +1,6 @@
 # 也许是RemeQwQ
+<img align="right" alt="Reme's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Remelens&theme=dark"><br>
+
 Yooo master~ 这里是Reme~ 是可爱的男孩子啦（被打
 
 前OIer/Arch Btw/SciFi/玩机发烧友/萌新音游人/HCM/比HAM还业余的无线电爱好者，电子/轻音乐爱好者，成分复杂（什么
@@ -48,9 +50,6 @@ Recovery code authentication failed.
 
 </details>
 
-------
-# CONTRIBUTIONS
+# Langs
 
-[![Reme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remelens&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remelens&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Reme's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remelens&theme=dark">
