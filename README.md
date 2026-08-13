@@ -14,17 +14,6 @@ EMAIL: master@remelens.top | Discord: remelens | website: https://remelens.top
 
 ------
 
-
-# 2026 ~
-
-<details>
-<summary>戳我展开 (/› w • )/</summary>
-
-### 0x01 糖果味的年呢 ~
-还是鼓起勇气尝试了喵.~ 表白成功咯~
-
-</details>
-
 # 2025のPROCESSES
 
 风平浪静没有什么大的变故uw
