@@ -14,6 +14,7 @@ EMAIL: master@remelens.top | Discord: remelens | website: https://remelens.top
 
 ------
 
+<!--
 # 2025のPROCESSES
 
 风平浪静没有什么大的变故uw
@@ -50,6 +51,8 @@ Recovery code authentication failed.
 有一说一zd真的很帅（
 
 </details>
+
+-->
 
 # Langs
 
