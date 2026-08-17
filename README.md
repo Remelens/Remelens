@@ -7,10 +7,11 @@ Yooo master~ 这里是Reme~ 是可爱的男孩子啦（被打
 
 华东高中生qwq 被中式教育摧残ing...
 
-Program Langs: C++/Python/HTML/CSS/JS/PHP/Rust/Python
-Learning: Rust/Python/SQL
-Planned: VB6/Java/C#/Go/Kotlin
+Program Langs: C++/Python/HTML/CSS/JS/PHP/Rust/Python  
+Learning: Rust/Python/SQL  
+Planned: VB6/Java/C#/Go/Kotlin  
 Langs: CN/EN
+
 EMAIL: master@remelens.top | Discord: remelens | website: https://remelens.top
 
 
