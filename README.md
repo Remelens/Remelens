@@ -5,10 +5,12 @@ Yooo master~ 这里是Reme~ 是可爱的男孩子啦（被打
 
 前OIer/Arch Btw/SciFi/玩机发烧友/萌新音游人/HCM/比HAM还业余的无线电爱好者，电子/轻音乐爱好者，成分复杂（什么
 
-啥都会一点算是（）虽然但是比较熟一点的也就只有C++/Python/HTML/CSS/JS/PHP）虽然但是复习了下Py相比于之前用C++写脚本好了太多算是；SQL入门，Rust不熟，VB6已经忘光了说是）更别提Java/C#/Go/Kotlin门都没入（）
-
 华东高中生qwq 被中式教育摧残ing...
 
+Program Langs: C++/Python/HTML/CSS/JS/PHP/Rust/Python
+Learning: Rust/Python/SQL
+Planned: VB6/Java/C#/Go/Kotlin
+Langs: CN/EN
 EMAIL: master@remelens.top | Discord: remelens | website: https://remelens.top
 
 
